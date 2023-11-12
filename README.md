@@ -1,4 +1,5 @@
-
+It was deployed on CLOUDFLARE Pages.
+Website Link:
 [gym-typescript-3sk.pages.dev](https://gym-typescript-3sk.pages.dev/)
 # React + TypeScript + Vite
 
